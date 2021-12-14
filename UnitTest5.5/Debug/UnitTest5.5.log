@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest5.5.cpp
+C:\Users\asus\source\repos\Lab-5.5\Lab-5.5\Lab-5.5.cpp(13,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\asus\source\repos\Lab-5.5\Lab-5.5\Lab-5.5.cpp(14,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\asus\source\repos\Lab-5.5\Lab-5.5\Lab-5.5.cpp(7,19): warning C4101: c: неиспользованная локальная переменная
+C:\Users\asus\source\repos\Lab-5.5\UnitTest5.5\UnitTest5.5.cpp(16,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\asus\source\repos\Lab-5.5\Debug\UnitTest5.5.lib и объект C:\Users\asus\source\repos\Lab-5.5\Debug\UnitTest5.5.exp
+  UnitTest5.5.vcxproj -> C:\Users\asus\source\repos\Lab-5.5\Debug\UnitTest5.5.dll
